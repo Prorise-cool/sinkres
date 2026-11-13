@@ -1,0 +1,1 @@
+MCP declaration probe surface=windsurf_embedded nonce=0cbc0cd075a1489c48f5396b4a988fd2
